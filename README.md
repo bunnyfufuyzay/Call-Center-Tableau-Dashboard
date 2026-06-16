@@ -1,6 +1,9 @@
 # 📞 Call Center Account Phone Report Dashboard
 
 An interactive Tableau dashboard designed to monitor call center performance across queues and time periods.
+## Dashboard Preview
+
+![Dashboard Preview](docs/dashboard_screenshot.png)
 
 ## Overview
 
